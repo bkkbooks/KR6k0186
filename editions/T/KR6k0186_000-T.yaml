@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6k0186/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛制比丘六物圖
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T45/T45n1900.xml
+    old_id: T45n1900
+hash: sha256:a2530197ffaa2a2ecaa987a6f57e431261769a305a90be80a9a41a4f2ef8cca5

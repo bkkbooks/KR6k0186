@@ -1,0 +1,191 @@
+canonical_identifier: bkk:krp/KR6k0186/v1
+canonical_location: https://kanripo.org/bkk/KR6k0186/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 佛制比丘六物圖
+  identifiers:
+    alt_id:
+    - T45n1900
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T45/T45n1900.xml
+    old_id: T45n1900
+  edition:
+    short: bkk
+editions:
+- short: 乙
+  label: 乙
+  source_xml_id: wit1
+- short: 甲
+  label: 甲
+  source_xml_id: wit2
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: 原
+  label: 原
+  source_xml_id: wit3
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0186_000.yaml, hash: 'sha256:a2530197ffaa2a2ecaa987a6f57e431261769a305a90be80a9a41a4f2ef8cca5'}
+  - {seq: 1, filename: KR6k0186_001.yaml, hash: 'sha256:be5dd57643d2a9d7b450f4f885d2a3181a248650918404e0dae1be4628b54261'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6k0186_001.markers.yaml, hash: 'sha256:44bebb4679bb2008b45ae27cf935d907b32d08bbc96041a4bab0b2244c7f585b'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6k0186_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 7162
+  label: 佛制比丘六物圖
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0186_T_001-mulu-1
+    span:
+    - body
+    - 19
+    - 19
+  label: 1-3 三衣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0186_T_001-mulu-2
+    span:
+    - body
+    - 19
+    - 19
+  label: 1 明三衣為三物
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0186_T_001-mulu-3
+    span:
+    - body
+    - 535
+    - 535
+  label: 2 釋名
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0186_T_001-mulu-4
+    span:
+    - body
+    - 750
+    - 750
+  label: 3 明求財
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0186_T_001-mulu-5
+    span:
+    - body
+    - 1009
+    - 1009
+  label: 4 明財體
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0186_T_001-mulu-6
+    span:
+    - body
+    - 1358
+    - 1358
+  label: 5 明色相
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0186_T_001-mulu-7
+    span:
+    - body
+    - 1637
+    - 1637
+  label: 6 明衣量
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0186_T_001-mulu-8
+    span:
+    - body
+    - 2219
+    - 2219
+  label: 7 明條數多少
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0186_T_001-mulu-9
+    span:
+    - body
+    - 2608
+    - 2608
+  label: 8 明重數
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0186_T_001-mulu-10
+    span:
+    - body
+    - 2930
+    - 2930
+  label: 9 明作衣法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0186_T_001-mulu-11
+    span:
+    - body
+    - 3378
+    - 3378
+  label: 10 加法行護
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0186_T_001-mulu-12
+    span:
+    - body
+    - 5219
+    - 5219
+  label: 4 鉢多羅
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0186_T_001-mulu-13
+    span:
+    - body
+    - 5622
+    - 5622
+  label: 5 尼師壇
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0186_T_001-mulu-14
+    span:
+    - body
+    - 6644
+    - 6644
+  label: 6 漉水囊
+  type: mulu
+  level: 1
+hash: sha256:a581ce7992798a67f6eb1ce3c79134d0e1bd2e46322c78994b8fc17ac04d50f2
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
