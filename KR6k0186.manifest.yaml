@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6k0186/v1
 canonical_location: https://kanripo.org/bkk/KR6k0186/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛制比丘六物圖
   identifiers:
@@ -31,10 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6k0186_000.yaml, hash: 'sha256:a2530197ffaa2a2ecaa987a6f57e431261769a305a90be80a9a41a4f2ef8cca5'}
-  - {seq: 1, filename: KR6k0186_001.yaml, hash: 'sha256:d85473c1b8b7c0ac7f811cbd5cd255164a825eecd14e0b6d924f0adec0470e9e'}
+  - {seq: 1, filename: KR6k0186_001.yaml, hash: 'sha256:b90178cdc156e7f8c6a642489febdeb66968d7f684336c358c9c42460e0cef1a'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6k0186_000.markers.yaml, hash: 'sha256:222dfea1198036d34ba4079328b12efdc4c07d7fb9775a15042d457a33637c16'}
-  - {seq: 1, role: markers, filename: assets/KR6k0186_001.markers.yaml, hash: 'sha256:71ac4cdc469336f890ac3c0124074e064aa1848c5c7486b17d98ffd394b009ff'}
+  - {seq: 1, role: markers, filename: assets/KR6k0186_001.markers.yaml, hash: 'sha256:642a5a976f7436b03920e6a092ebc4f52e168b6dd9604aadd4eee3f7ea0b8b56'}
 table_of_contents:
 - ref:
     seq: 1
@@ -186,4 +186,7 @@ table_of_contents:
   label: 6 漉水囊
   type: mulu
   level: 1
-hash: sha256:6c66225764a411e782c5cba77fbde2dbd7fca344a0be08639f7699a366e814b6
+hash: sha256:4984f7d1f611a51fb6ee9f4cf0102dc88a1f681546fac024b6a298021c049c87
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
